@@ -1136,7 +1136,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       top: 0;
       background: rgba(0, 0, 0, 0.4); }
 
-@supports (-webkit-overflow-scrolling: touch) { 	.site-cover-1 { 		background-attachment: scroll; 	} }
+
 
       .site-cover-1 {
         background-size: cover;
@@ -1153,6 +1153,8 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
             right: 0;
             top: 0;
             background: rgba(0, 0, 0, 0); }
+
+@supports (-webkit-overflow-scrolling: touch) { 	.site-cover-1 { 		background-attachment: scroll; 	} }
 
 .slider-team-wrap .owl-dots {
   position: absolutre;
