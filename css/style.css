@@ -1142,9 +1142,9 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         background-repeat: no-repeat;
         background-position: center center;
         background-attachment: fixed; }
-        .site-cover-2.overlay {
+        .site-cover-1.overlay {
           position: relative; }
-          .site-cover-2.overlay:before {
+          .site-cover-1.overlay:before {
             position: absolute;
             content: "";
             left: 0;
